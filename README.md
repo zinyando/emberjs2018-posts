@@ -16,7 +16,9 @@ A list of EmberJS2018 posts, feel free to add others!!!
 1. [Address the Hierarchy of Skepticism](https://gist.github.com/michaelrkn/ffdd67906a724362bd8f5ccc3434db0f)
 1. [Stability without Stagnation in 2018](https://medium.com/@gauravmunjal_86037/stability-without-stagnation-in-2018-ce2d4f519991)
 1. [EmberJS 2018: Ember as a Component-Service Framework](https://medium.com/@pzuraq/emberjs-2018-ember-as-a-component-service-framework-2e49492734f1)
-1. [Building Bridges - @cyklassen](https://medium.com/@cyk/ember-2018-building-bridges-523d7dcfd282)
+1. [Building Bridges](https://medium.com/@cyk/ember-2018-building-bridges-523d7dcfd282)
+1. [My Ember Wishlist for 2018](https://medium.com/front-end-hacking/my-ember-wishlist-for-2018-bb6311617d9c)
+1. [Ember in 2018: Make it Beginner Friendly](https://www.linkedin.com/pulse/make-beginner-friendly-my-hopes-ember-2018-chris-ng/)
 
 ## Tweets
 These don't have blog posts but it felt like they should be tracked somehow. 
