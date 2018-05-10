@@ -19,6 +19,7 @@ A list of EmberJS2018 posts, feel free to add others!!!
 1. [Building Bridges](https://medium.com/@cyk/ember-2018-building-bridges-523d7dcfd282)
 1. [My Ember Wishlist for 2018](https://medium.com/front-end-hacking/my-ember-wishlist-for-2018-bb6311617d9c)
 1. [Ember in 2018: Make it Beginner Friendly](https://www.linkedin.com/pulse/make-beginner-friendly-my-hopes-ember-2018-chris-ng/)
+1. [Emphasize the role of Ember addons more!](https://medium.com/@chilicoder/emphasize-the-role-of-ember-addons-more-fcc4cfb1440b)
 
 ## Tweets
 These don't have blog posts but it felt like they should be tracked somehow. 
