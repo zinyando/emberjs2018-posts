@@ -27,3 +27,5 @@ These don't have blog posts but it felt like they should be tracked somehow.
 1. [destigmatize the competition](https://twitter.com/amatchneer/status/992149772164268032)
 1. [Ember.isEmpty({}) should return true](https://twitter.com/gofind2000man/status/991825879671029761)
 1. [Rebranding suggestion](https://twitter.com/jdavila25/status/992556418506133504)
+1. [Are component classes even needed?](https://twitter.com/chadhietala/status/993232552159739905)
+1. [Hot reloading](https://twitter.com/astronomersiva/status/994086228516581376)
