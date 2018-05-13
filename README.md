@@ -23,6 +23,7 @@ A list of EmberJS2018 posts, feel free to add others!!!
 1. [#EmberJS2018, Part 1 - Finishing What We've Started](https://www.chriskrycho.com/2018/emberjs2018-part-1.html)
 1. [Things I think will accelerate Ember again](https://gist.github.com/ErunamoJAZZ/3447883a3ac56f9fa7b8dc5e59bed120)
 
+
 ## Tweets
 These don't have blog posts but it felt like they should be tracked somehow. 
 1. [component name as className](https://twitter.com/landongn/status/992847414426980352)
