@@ -37,3 +37,4 @@ These don't have blog posts but it felt like they should be tracked somehow.
 1. [Are component classes even needed?](https://twitter.com/chadhietala/status/993232552159739905)
 1. [Hot reloading](https://twitter.com/astronomersiva/status/994086228516581376)
 1. [Code Splitting](https://twitter.com/cspanring/status/996815555024781312)
+1. [Documenting Security](https://twitter.com/whatchrisdrinks/status/997155455171411968)
