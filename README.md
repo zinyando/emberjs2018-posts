@@ -25,6 +25,9 @@ A list of EmberJS2018 posts, feel free to add others!!!
 1. [Ember 2018 Roadmap: A call for blog post(response)](http://carlogilmar.me/post/ember-call/)
 1. [EmberJS 2018 - My Wishlist](https://harrisjose.github.io/emberjs-2018/)
 
+## Forum Threads
+1. [Routes and their future role in Ember](https://discuss.emberjs.com/t/routes-and-their-future-role-in-ember/14716)
+
 ## Tweets
 These don't have blog posts but it felt like they should be tracked somehow. 
 1. [component name as className](https://twitter.com/landongn/status/992847414426980352)
@@ -33,4 +36,4 @@ These don't have blog posts but it felt like they should be tracked somehow.
 1. [Rebranding suggestion](https://twitter.com/jdavila25/status/992556418506133504)
 1. [Are component classes even needed?](https://twitter.com/chadhietala/status/993232552159739905)
 1. [Hot reloading](https://twitter.com/astronomersiva/status/994086228516581376)
-
+1. [Code Splitting](https://twitter.com/cspanring/status/996815555024781312)
