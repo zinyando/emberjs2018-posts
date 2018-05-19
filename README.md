@@ -24,6 +24,8 @@ A list of EmberJS2018 posts, feel free to add others!!!
 1. [Things I think will accelerate Ember again](https://gist.github.com/ErunamoJAZZ/3447883a3ac56f9fa7b8dc5e59bed120)
 1. [Ember 2018 Roadmap: A call for blog post(response)](http://carlogilmar.me/post/ember-call/)
 1. [EmberJS 2018 - My Wishlist](https://harrisjose.github.io/emberjs-2018/)
+1. [#EmberJS2018, Part 2](https://www.chriskrycho.com/2018/emberjs2018-part-2.html)
+1. [Ember 2018 Priorities](https://eaf4.com/ember-2018-roadmap/)
 
 ## Forum Threads
 1. [Routes and their future role in Ember](https://discuss.emberjs.com/t/routes-and-their-future-role-in-ember/14716)
