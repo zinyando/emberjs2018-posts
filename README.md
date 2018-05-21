@@ -27,6 +27,7 @@ A list of EmberJS2018 posts, feel free to add others!!!
 1. [#EmberJS2018, Part 2 - Doubling Down on Documentation](https://www.chriskrycho.com/2018/emberjs2018-part-2.html)
 1. [Ember 2018 Priorities](https://eaf4.com/ember-2018-roadmap/)
 1. [Honest look at Ember in the middle of 2018](https://medium.com/@vlascik/honest-look-at-ember-in-the-middle-of-2018-a0dc2787e506)
+1. [The creativity of the web is dying, and Ember.js taught me why.](https://medium.com/@landongn/the-creativity-of-the-web-is-dying-and-ember-js-taught-me-why-47cca63fa5c6)
 
 ## Forum Threads
 1. [Routes and their future role in Ember](https://discuss.emberjs.com/t/routes-and-their-future-role-in-ember/14716)
