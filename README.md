@@ -32,6 +32,7 @@ A list of EmberJS2018 posts, feel free to add others!!!
 1. [What I want to see in Ember for the rest of 2018](https://rmmmp.github.io/2018/05/22/what-i-want-to-see-in-ember-for-the-rest-of-2018.html)
 1. [#EmberJS2018: Plays Well With Others](https://blog.isnorcreative.com/2018/05/21/emberjs2018-plays-well-with-others.html)
 1. [Tomorrow's Ember is not what you think (part 1, 2018)](https://runspired.com/2018/05/21/ember-2018/)
+1. [Ember.js in 2018: get better at marketing!](https://www.kaliber5.de/en/blog/ember-js-in-2018-get-better-at-marketing/)
 
 ## Forum Threads
 1. [Routes and their future role in Ember](https://discuss.emberjs.com/t/routes-and-their-future-role-in-ember/14716)
