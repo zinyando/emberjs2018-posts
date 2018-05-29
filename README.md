@@ -23,6 +23,7 @@ A list of EmberJS2018 posts, feel free to add others!!!
 1. [#EmberJS2018, Part 1 - Finishing What We've Started](https://www.chriskrycho.com/2018/emberjs2018-part-1.html)
 1. [#EmberJS2018, Part 2 - Doubling Down on Documentation](https://www.chriskrycho.com/2018/emberjs2018-part-2.html)
 1. [#EmberJS2018, Part 3 - Default to open for discussions and decision-making](https://www.chriskrycho.com/2018/emberjs2018-part-3.html)
+1. [#EmberJS2018, Part 4 - Embracing the Ecosystem](https://www.chriskrycho.com/2018/emberjs2018-part-4.html)
 1. [Things I think will accelerate Ember again](https://gist.github.com/ErunamoJAZZ/3447883a3ac56f9fa7b8dc5e59bed120)
 1. [Ember 2018 Roadmap: A call for blog post(response)](http://carlogilmar.me/post/ember-call/)
 1. [EmberJS 2018 - My Wishlist](https://harrisjose.github.io/emberjs-2018/)
