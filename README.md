@@ -43,6 +43,7 @@ A list of EmberJS2018 posts, feel free to add others!!!
 1. [Ember.js 2018 - Let's market the future](https://medium.com/@willviles/ember-js-in-2018-lets-market-the-future-e6be9c42cf86)
 1. [Ember: Our Secret Weapon](https://www.prototypal.io/blog/)
 1. [Ember 2018 Roadmap](https://gist.github.com/jamesarosen/df6755047cf321527238717bd9904d10)
+1. [A Little Encouragement Goes a Long Way in 2018](https://simplabs.com/blog/2018/05/30/a-little-encouragement-goes-a-long-way-in-2018.html)
 
 ## Forum Threads
 1. [Routes and their future role in Ember](https://discuss.emberjs.com/t/routes-and-their-future-role-in-ember/14716)
