@@ -6,7 +6,7 @@ A list of EmberJS2018 posts, feel free to add others!!!
 - [Ember's 2018 Roadmap: A Call for Blog Posts](https://emberjs.com/blog/2018/05/02/ember-2018-roadmap-call-for-posts.html)
 
 ## Community Posts
-1. [Be loud and be ready - my hopes for Ember.js in 2018](https://gist.github.com/jenweber/a9fbea98478fc3841fb8b24f7dc961c8) 
+1. [Be loud and be ready - my hopes for Ember.js in 2018](https://gist.github.com/jenweber/a9fbea98478fc3841fb8b24f7dc961c8)
 1. [Our wish for Ember in 2018: Overcommunication ](https://embermap.com/notes/107-our-wish-for-ember-in-2018-overcommunication)
 1. [Blog Post for an Ambitious Framework](https://blog.201-created.com/blog-post-for-an-ambitious-framework-d7e9248893fa)
 1. [Wishing on a Star](https://medium.com/@melaniesumner/wishing-on-a-star-722a4fe590a7)
@@ -40,12 +40,13 @@ A list of EmberJS2018 posts, feel free to add others!!!
 1. [Ember in 2018, getting ready for the next major release](https://josemarluedke.com/blog/ember-in-2018-getting-ready-for-the-next-major-release/)
 1. [Ember.js in 2018](https://medium.com/@TBieniek/ember-js-in-2018-7bd1c2cf13a3)
 1. [A Few Quick Thoughts On Ember For 2018 From A Corporate Citizen](https://www.innovu.com/2018/05/a-few-quick-thoughts-on-ember-for-2018-from-a-corporate-citizen/)
+1. [Ember.js 2018 - Let's market the future](https://medium.com/@willviles/ember-js-in-2018-lets-market-the-future-e6be9c42cf86)
 
 ## Forum Threads
 1. [Routes and their future role in Ember](https://discuss.emberjs.com/t/routes-and-their-future-role-in-ember/14716)
 
 ## Tweets
-These don't have blog posts but it felt like they should be tracked somehow. 
+These don't have blog posts but it felt like they should be tracked somehow.
 1. [component name as className](https://twitter.com/landongn/status/992847414426980352)
 1. [destigmatize the competition](https://twitter.com/amatchneer/status/992149772164268032)
 1. [Ember.isEmpty({}) should return true](https://twitter.com/gofind2000man/status/991825879671029761)
