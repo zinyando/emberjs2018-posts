@@ -47,6 +47,7 @@ A list of EmberJS2018 posts, feel free to add others!!!
 1. [EmberJS in 2018: Beyond Quietly Productive](https://medium.com/@boyanyordanov/emberjs-in-2018-beyond-quietly-productive-c3ef573ccc7b)
 1. [#EmberJS2018: Keep Leading with Testing](https://blog.percy.io/emberjs2018-keep-leading-with-testing-b1902c34546e)
 1. [Quo Vadis, EmberJS? My EmberJS wishlist for 2018](https://medium.com/@poslinskinet/quo-vadis-emberjs-my-emberjs-wishlist-for-2018-2c66916b18ae)
+1. [Ember in 2018](https://gist.githubusercontent.com/tschoartschi/2136bd2bd36cca6b95d92a07e93dfe51/raw/0f437eb158c6454df292f22eaf7a82b1a187c036/txt)
 
 ## Forum Threads
 1. [Routes and their future role in Ember](https://discuss.emberjs.com/t/routes-and-their-future-role-in-ember/14716)
