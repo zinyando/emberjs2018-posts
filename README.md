@@ -54,6 +54,7 @@ A list of EmberJS2018 posts, feel free to add others!!!
 1. [EmberJS2018 – A Few Suggestions](https://pixelhandler.com/posts/emberjs2018-a-few-suggestions)
 1. [Guiding new Ember developers to the power of Ember Addons #EmberJS2018](https://medium.com/@elgordio/guiding-new-ember-developers-to-the-power-of-ember-addons-emberjs2018-22af9b27e7f3)
 1. [Tomorrow's Ember (part 2 - tooling)](https://runspired.com/2018/06/02/ember-in-2018-part-2/)
+1. [Ember.js in 2018](http://www.lukemelia.com/blog/archives/2018/06/02/emberjs-2018/)
 
 ## Forum Threads
 1. [Routes and their future role in Ember](https://discuss.emberjs.com/t/routes-and-their-future-role-in-ember/14716)
