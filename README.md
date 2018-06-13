@@ -57,6 +57,7 @@ A list of EmberJS2018 posts, feel free to add others!!!
 1. [Ember.js in 2018](http://www.lukemelia.com/blog/archives/2018/06/02/emberjs-2018/)
 1. [Ember in 2018 and Beyond](https://innernet.io/ember-in-2018-and-beyond.html)
 1. [#Emberjs2018—further adventures into the future](https://medium.com/@chrisdmasters/emberjs2018-further-adventures-into-the-future-b0854cab9155)
+1. [My EmberJS in 2018](https://medium.com/@KamiKillertO/my-emberjs-in-2018-bc7f52739e16)
 
 ## Forum Threads
 1. [Routes and their future role in Ember](https://discuss.emberjs.com/t/routes-and-their-future-role-in-ember/14716)
